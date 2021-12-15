@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+	<customer>
+		<id>12</id>
+		<name>David</name>
+		<address>Address 1</address>
+	</customer>
+	<customer>
+		<id>52</id>
+		<name>Paul</name>
+		<address>Address 2</address>
+	</customer>
+	<customer>
+		<id>23</id>
+		<name>Adam</name>
+		<address>Address 3</address>
+	</customer>
+	<customer>
+		<id>2</id>
+		<name>Ben</name>
+		<address>Address 4</address>
+	</customer>
+</customers>
